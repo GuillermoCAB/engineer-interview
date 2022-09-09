@@ -1,3 +1,10 @@
+## Author's note
+Some considerations about the project. I've decided to keep it simple because it's a small project, so I didn't create any redux or context to manage the state, since it's not a complex app and I think that would be overkill. I've also decided to use CSS instead of SASS or styled-components, again because it's a simples project I don't feel like they would add as much value as they will add complexity to it.
+
+I've keept the original files as and where they were, I would have probably moved the ChallengeComponent to the component folder, but I don't like to move things in a project before talking with who create them and understand the concepts and ideas behind that.
+
+
+
 ## Video Intro
 https://www.loom.com/share/3df7fcb5424644638b00724cb178e2ff
 
